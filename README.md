@@ -1,2 +1,2 @@
 # Digital-Systems
-A digital home alarm system that detects temperature, light and smoke
+A home alarm system using verilof that detects temperature, light and smoke
